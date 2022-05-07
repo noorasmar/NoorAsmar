@@ -8,7 +8,7 @@ I'm Noor Asmar , Front End Developer , Graduated from an Najah University I'm lo
 - 🌱 I’m currently learning ...React.js/Next.js
 - 🔥 My passions: ...Tech, coding, learning!
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ...[linkedin](https://www.linkedin.com/in/noor-asmar-8b78b9212/)
+- 📫 How to reach me: ...[linkedin](https://www.linkedin.com/in/noor-asmar/)
 - 😄 Pronouns: ...He/Him
 
 ### 🔨 Languages and Tools: 
